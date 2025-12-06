@@ -1,26 +1,21 @@
-# AI Data Training Samples  
-Exemplos de escrita, edição, análise e criação de prompts desenvolvidos para demonstração de competências em trabalhos de **AI Data Trainer**, **Content Evaluator**, **Linguistic Specialist** e áreas relacionadas ao treinamento de modelos de Inteligência Artificial.
+# AI Data Training Portfolio
 
-Este repositório reúne materiais criados por **João Candido** com foco em:
+Bem-vindo ao meu portfólio profissional como AI Data Trainer, criado para demonstrar competência em escrita, edição, análise crítica e criação de prompts para modelos de Inteligência Artificial.
 
-- Produção de textos claros, estruturados e informativos  
-- Revisão e edição (copidesque)  
-- Comparação e avaliação de respostas (raciocínio analítico)  
-- Criação de prompts para LLMs  
-- Demonstração de familiaridade com modelos de linguagem (LLMs)
+## Sobre mim
+Sou João Candido, profissional com sólida experiência em redação, revisão textual, atendimento ao cliente e operações logísticas. Tenho forte domínio da língua portuguesa, excelente atenção a detalhes e familiaridade prática com modelos de linguagem (LLMs).
 
----
+## O que você encontrará aqui
+- Exemplos de prompts e respostas
+- Amostras de revisão e edição de texto
+- Avaliações comparativas e análises críticas
+- Demonstrações de clareza, coesão e adequação textual
 
-## 📂 Estrutura do Repositório
-
-### **1. prompts-and-responses.md**
-Arquivo contendo exemplos de:
-
-- Criação de prompts  
-- Respostas bem estruturadas  
-- Transformações de texto (reescrita, simplificação, formalização)  
-- Geração de conteúdos instrutivos e criativos  
-
----
-
-###
+## Competências demonstradas
+✔ Redação e copidesque  
+✔ Avaliação de respostas  
+✔ Criação de prompts  
+✔ Linguística prática  
+✔ Habilidades analíticas  
+✔ Uso de LLMs (ChatGPT)  
+✔ Atenção a detalhes  
